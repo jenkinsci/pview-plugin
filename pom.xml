@@ -4,7 +4,7 @@
 	<groupId>de.fspengler.hudson.pview</groupId>
 	<artifactId>hudson-pview-plugin</artifactId>
 	<packaging>hpi</packaging>
-	<version>1.8-SNAPSHOT</version>
+	<version>1.8</version>
 	<name>Hudson Personal View</name>
 	<url>http://wiki.hudson-ci.org/display/HUDSON/Hudson+Personal+View</url>
 	<description>This plugin provides every user the possibility to create its own view</description>
@@ -33,8 +33,8 @@
 		</developer>
 	</developers>
 	<scm>
-		<connection>scm:svn:https://guest@svn.java.net/svn/hudson~svn/trunk/hudson/plugins/pview</connection>
-		<developerConnection>scm:svn:https://svn.java.net/svn/hudson~svn/trunk/hudson/plugins/pview</developerConnection>
-		<url>http://java.net/projects/hudson/sources/svn/show/trunk/hudson/plugins/pview</url>
+		<connection>scm:svn:https://guest@svn.java.net/svn/hudson~svn/tags/hudson-pview-plugin-1.8</connection>
+		<developerConnection>scm:svn:https://svn.java.net/svn/hudson~svn/tags/hudson-pview-plugin-1.8</developerConnection>
+		<url>http://java.net/projects/hudson/sources/svn/show/tags/hudson-pview-plugin-1.8</url>
 	</scm>
 </project>
